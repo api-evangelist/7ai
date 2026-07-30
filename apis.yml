@@ -1,19 +1,48 @@
 aid: 7ai
 name: 7AI
-description: '7AI is a company surfaced as a portfolio company of greylock and added to the API Evangelist
-  network as a stub for enrichment. Sector: cybersecurity. This profile is a lead awaiting the enrichment
-  pipeline.'
+description: >-
+  7AI (Seven AI, Inc.) is a Boston-based cybersecurity company building an agentic
+  security platform that offloads repetitive, non-human security-operations work to
+  swarming AI agents. Founded in 2024 by Cybereason co-founders Lior Div and Yonatan
+  Striem-Amit, 7AI delivers "Service as Software" for the SOC: autonomous agents
+  ingest and triage alerts, enrich data, and run end-to-end investigations, response,
+  threat hunting, and case management so human analysts focus on high-value work. The
+  platform spans Cases, Investigations, Detection, Response, Hunting, and Enterprise
+  Insights. 7AI is a Greylock-backed portfolio company and raised the largest
+  cybersecurity Series A on record. This API Evangelist profile is a company/identity
+  record; 7AI does not publish a public developer API, SDK, or developer portal at the
+  time of enrichment.
 url: https://raw.githubusercontent.com/api-evangelist/7ai/refs/heads/main/apis.yml
 x-type: company
 x-source: greylock-portfolio
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
 modified: '2026-07-17'
+image: https://47518862.fs1.hubspotusercontent-na1.net/hubfs/47518862/outline.png.webp
 tags:
 - Company
 - Cybersecurity
+- Security
+- Artificial Intelligence
+- AI Agents
+- Agentic Security
+- Security Operations
+- SOC
+- Threat Detection
+- Incident Response
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +52,30 @@ maintainers:
 common:
 - type: Website
   url: https://7ai.com/
+- type: Blog
+  url: https://blog.7ai.com/
+- type: About
+  url: https://7ai.com/company
+- type: GettingStarted
+  url: https://7ai.com/get-started
+- type: Support
+  url: https://7ai.com/contact
+- type: TermsOfService
+  url: https://7ai.com/terms
+- type: PrivacyPolicy
+  url: https://7ai.com/privacy-policy
+- type: Security
+  url: https://7ai.com/security
+- type: Compliance
+  url: https://7ai.com/security
+- type: TrustCenter
+  url: security/7ai-trust-center.yml
+- type: Conformance
+  url: conformance/7ai-conformance.yml
+- type: DomainSecurity
+  url: security/7ai-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
