@@ -1,0 +1,20 @@
+generated: '2026-07-17'
+method: searched
+source: https://7ai.com/security
+standards:
+- id: soc2-type-ii
+  conforms: true
+  evidence: >-
+    7ai.com/security states 7AI completed a SOC 2 Type II audit (AICPA trust
+    categories: security and confidentiality), audited by Decrypt Compliance.
+- id: iso-27001
+  conforms: false
+- id: hipaa
+  conforms: false
+- id: pci-dss
+  conforms: false
+- id: fedramp
+  conforms: false
+- id: gdpr
+  conforms: false
+  evidence: No explicit GDPR statement found on the public security page.

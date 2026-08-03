@@ -1,0 +1,25 @@
+generated: '2026-07-17'
+method: searched
+source: https://7ai.com/security
+probe: false
+url: https://7ai.com/security
+legal_entity: Seven AI, Inc.
+certifications:
+- SOC 2 Type II
+auditor: Decrypt Compliance
+trust_categories:
+- security
+- confidentiality
+security_contact: security@7ai.com
+notes: >-
+  7AI publishes its security posture on https://7ai.com/security, stating it has
+  completed a SOC 2 Type II audit (AICPA trust categories: security and
+  confidentiality), audited by Decrypt Compliance. No dedicated trust-center
+  subdomain, ISO 27001, HIPAA, PCI DSS, FedRAMP, or public bug-bounty program was
+  found at the time of capture.
+evidence:
+- source: https://7ai.com/security
+  keywords:
+  - soc 2 type ii
+  - security and confidentiality
+  - decrypt compliance
