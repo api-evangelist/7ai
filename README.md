@@ -80,8 +80,8 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [7Ai Domain Security](https://apis.io/security/7ai/7ai-domain-security/)
-- [7Ai Trust Center](https://apis.io/security/7ai/7ai-trust-center/)
+- [7AI Domain Security](https://apis.io/security/7ai/7ai-domain-security/)
+- [7AI Trust Center](https://apis.io/security/7ai/7ai-trust-center/)
 
 ## Where to find this API
 
@@ -98,16 +98,16 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 20.5** — emerging · rubric 0.24.0 · scored 2026-10-17
+**Kin Score 22.8** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
 | Discoverability | 48.2 |
 | Contract quality | 0.0 |
 | Contract governance | 18.2 |
-| Operational transparency | 10.5 |
+| Operational transparency | 9.5 |
 | Developer ergonomics | 19.0 |
-| Access clarity | 36.8 |
+| Access clarity | 48.9 |
 
 **Agent readiness 0.0** — human-only
 
@@ -132,6 +132,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Protected Resource Metadata | — |
 | Dynamic Client Registration | — |
 | Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
 **Regulatory alignment 21.8** — Horizontal (data, software, accessibility, platform)
 
